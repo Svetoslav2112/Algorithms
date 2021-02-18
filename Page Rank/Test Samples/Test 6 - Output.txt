@@ -1,0 +1,10 @@
+feedburner.com          Rank:0.279
+whatsapp.com            Rank:0.254
+t.me                    Rank:0.124
+opera.com               Rank:0.122
+theguardian.com         Rank:0.069
+forbes.com              Rank:0.064
+bbc.com                 Rank:0.056
+nih.gov                 Rank:0.054
+reuters.com             Rank:0.046
+issuu.com               Rank:0.044

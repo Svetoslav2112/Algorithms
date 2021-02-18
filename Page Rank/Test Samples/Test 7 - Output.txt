@@ -1,0 +1,6 @@
+google.de               Rank:0.270
+mail.ru                 Rank:0.186
+msn.com                 Rank:0.180
+fr.wikipedia.org        Rank:0.133
+paypal.com              Rank:0.130
+dropbox.com             Rank:0.101

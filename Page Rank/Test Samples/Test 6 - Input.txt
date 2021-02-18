@@ -1,0 +1,16 @@
+9 15
+issuu.com nih.gov
+nih.gov feedburner.com
+feedburner.com whatsapp.com
+whatsapp.com t.me
+t.me opera.com
+opera.com theguardian.com
+theguardian.com reuters.com
+reuters.com bbc.com
+bbc.com forbes.com
+forbes.com issuu.com
+issuu.com nih.gov
+whatsapp.com feedburner.com
+forbes.com feedburner.com
+theguardian.com feedburner.com
+opera.com feedburner.com

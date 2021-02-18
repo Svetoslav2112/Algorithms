@@ -1,0 +1,7 @@
+github.com              Rank:0.357
+cnn.com                 Rank:0.139
+youtube.com             Rank:0.137
+uol.com.br              Rank:0.125
+pt.wikipedia.org        Rank:0.097
+vk.com                  Rank:0.097
+imdb.com                Rank:0.049

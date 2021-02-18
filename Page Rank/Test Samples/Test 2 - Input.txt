@@ -1,0 +1,12 @@
+5 11
+www.gamedot.org www.westside.com
+www.learnguru.com www.window-shop.com
+www.peace-maker.bg www.window-shop.com
+www.gamedot.org www.learnguru.com
+www.peace-maker.bg www.westside.com
+www.gamedot.org www.window-shop.com
+www.window-shop.com www.peace-maker.bg
+www.peace-maker.bg www.gamedot.org
+www.learnguru.com www.gamedot.org
+www.learnguru.com www.westside.com
+www.westside.com www.peace-maker.bg

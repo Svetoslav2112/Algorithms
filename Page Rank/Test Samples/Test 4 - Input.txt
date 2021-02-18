@@ -1,0 +1,16 @@
+7 15
+github.com vk.com
+vk.com cnn.com
+github.com uol.com.br
+uol.com.br github.com
+pt.wikipedia.org github.com
+imdb.com youtube.com
+youtube.com github.com
+imdb.com github.com
+uol.com.br youtube.com
+github.com pt.wikipedia.org
+pt.wikipedia.org imdb.com
+pt.wikipedia.org uol.com.br
+vk.com youtube.com
+cnn.com github.com
+github.com cnn.com

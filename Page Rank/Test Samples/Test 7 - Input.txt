@@ -1,0 +1,14 @@
+6 13
+google.de dropbox.com
+msn.com google.de
+google.de msn.com
+dropbox.com paypal.com
+paypal.com google.de
+mail.ru msn.com
+fr.wikipedia.org google.de
+msn.com mail.ru
+paypal.com mail.ru
+mail.ru fr.wikipedia.org
+dropbox.com fr.wikipedia.org
+dropbox.com mail.ru
+google.de paypal.com
